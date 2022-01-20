@@ -1,0 +1,28 @@
+{
+  "window.zoomLevel": 0.25,
+  "workbench.editor.showTabs": true,
+  "appService.defaultWebAppToDeploy": "None",
+  // "terminal.integrated.shell.osx": "/bin/zsh",
+  "terminal.integrated.defaultProfile.osx": "/bin/zsh",
+  // "terminal.integrated.profile.osx": "/bin/zsh",
+  "git.suggestSmartCommit": true,
+  "git.enableSmartCommit": true,
+  "git.autofetch": true,
+  "editor.formatOnSave": true,
+  "javascript.updateImportsOnFileMove.enabled": "always",
+  "typescript.updateImportsOnFileMove.enabled": "always",
+  "diffEditor.ignoreTrimWhitespace": false,
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "[javascript]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "typescriptHero.imports.insertSemicolons": false,
+  "typescriptHero.imports.multiLineWrapThreshold": 160,
+  "typescriptHero.imports.organizeOnSave": true,
+  "typescriptHero.imports.ignoredFromRemoval": ["react"],
+  "typescriptHero.imports.disableImportRemovalOnOrganize": true,
+  "typescriptHero.imports.disableImportsSorting": true,
+  "eslint.alwaysShowStatus": true,
+  "eslint.packageManager": "yarn",
+  "json.maxItemsComputed": 5000
+}
