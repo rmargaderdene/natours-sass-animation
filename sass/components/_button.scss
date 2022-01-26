@@ -14,13 +14,13 @@
 
   &:hover {
     transform: translateY(-3px);
-    box-shadow: 0 1rem 2rem rgba($color-dark, 0.2);
+    box-shadow: 0 1rem 2rem rgba($color-black, 0.2);
     background-color: $color-white;
   }
 
   &:active {
     transform: translateY(-1px);
-    box-shadow: 0 0.5rem 1rem rgba($color-dark, 0.2);
+    box-shadow: 0 0.5rem 1rem rgba($color-black, 0.2);
   }
 
   &::after {
